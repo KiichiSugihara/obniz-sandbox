@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KiichiSugihara/obniz-sandbox/issues"
   },
-  "homepage": "https://github.com/KiichiSugihara/obniz-sandbox#readme"
+  "homepage": "https://github.com/KiichiSugihara/obniz-sandbox#readme",
+  "dependencies": {
+    "obniz": "^3.1.0"
+  }
 }
